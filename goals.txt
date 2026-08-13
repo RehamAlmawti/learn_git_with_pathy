@@ -1,0 +1,4 @@
+# I learned What is the differenc between Git and GitHub 
+# I learned how to connect my project to Git 
+# I learned some Git commands 
+# I learned how to connect my project to a repository on GitHub
